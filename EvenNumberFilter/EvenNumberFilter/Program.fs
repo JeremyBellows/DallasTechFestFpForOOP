@@ -4,6 +4,9 @@ let listOfNumbers = [ 994; 551; 386; 79; 850; 155; 466; 953; 903; 17; 930; 344; 
 
 type overallGoal = int list -> unit
 
+(*
+Below is code used to answer a question
+
 type user =
   {
     UserName : string
@@ -13,7 +16,7 @@ type user =
 type userThatHasBeenLogged = user
 
 type loggingInFunctionSig = user -> userThatHasBeenLogged -> user
-
+*)
 
 let functiontest number number2 = ()
 
